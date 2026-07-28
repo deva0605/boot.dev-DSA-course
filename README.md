@@ -65,4 +65,11 @@ completed the following
 - 3: Queue Speed
 - 4: Matchmaking Queue
 # Lineked List
-- linkedlist problem
+- 1: Linked Lists
+- 2: Linked List vs. List
+- 3: Iterating
+- 4: Add to Tail
+- 5: Add to Head
+- 6: Linked List Queue
+- 7: Remove from Head
+- 8: Linked List Queue Quiz
