@@ -74,3 +74,6 @@ completed the following
 - 7: Remove from Head
 - 8: Linked List Queue Quiz
 # trees
+- 1: trees
+- 2: Binary trees 
+- 3: Insert Nodes
