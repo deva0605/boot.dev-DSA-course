@@ -77,3 +77,5 @@ completed the following
 - 1: trees
 - 2: Binary trees 
 - 3: Insert Nodes
+- 4: Insert Review
+- 5: Min and Max
