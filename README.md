@@ -79,3 +79,5 @@ completed the following
 - 3: Insert Nodes
 - 4: Insert Review
 - 5: Min and Max
+- 6. Delete tree
+- 7. Delete review
