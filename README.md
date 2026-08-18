@@ -81,3 +81,8 @@ completed the following
 - 5: Min and Max
 - 6. Delete tree
 - 7. Delete review
+- 8: Preorder Traversal
+- 9: Postorder Traversal
+- 10: Inorder Traversal
+- 11: Node Exists
+- 12: Height
