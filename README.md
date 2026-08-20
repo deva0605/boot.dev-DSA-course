@@ -86,3 +86,10 @@ completed the following
 - 10: Inorder Traversal
 - 11: Node Exists
 - 12: Height
+# Red black trees
+- 1: Unbalanced Trees
+- 2: Red-Black Tree
+- 3: Rules
+- 4: Rotation
+- 5: Fix Insert
+- 6: Quiz
