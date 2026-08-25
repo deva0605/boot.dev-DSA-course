@@ -93,3 +93,4 @@ completed the following
 - 4: Rotation
 - 5: Fix Insert
 - 6: Quiz
+- 7: red-blacktree
