@@ -94,3 +94,9 @@ completed the following
 - 5: Fix Insert
 - 6: Quiz
 - 7: red-blacktree
+# Hashmaps
+- 1: quiz
+- 2:hashmap function
+- 3:insert
+- 4:get
+- 
