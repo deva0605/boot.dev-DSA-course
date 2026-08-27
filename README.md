@@ -99,4 +99,5 @@ completed the following
 - 2:hashmap function
 - 3:insert
 - 4:get
-- 
+- 5:Resizing
+- 6: Linear probing 
